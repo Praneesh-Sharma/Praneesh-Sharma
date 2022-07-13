@@ -13,12 +13,12 @@
   </a>
 </div>
 
-About Me :
+## About Me :
  - Developer in my second year of B.Tech at Kalinga Institute of Industrial Teachnology
  - Machine Learning and Artificial Intelligence Entusiast
  - Done with basics of Cloud Computing
 
-Languages and Tools :
+## Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Pyton" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -35,5 +35,8 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </div>
 
-GitHub Statistics :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneesh-Sharma &theme=radical)
+
+## GitHub Statistics :
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneesh-Sharma&theme=tokyonight)
+
