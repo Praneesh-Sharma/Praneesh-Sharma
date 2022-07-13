@@ -38,5 +38,7 @@
 
 ## GitHub Statistics :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneesh-Sharma&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneesh-Sharma&theme=tokyonight&hide_border=true&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praneesh-Sharma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Sharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
