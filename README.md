@@ -15,7 +15,7 @@
 
 ## About Me :
  - Developer in my second year of B.Tech at Kalinga Institute of Industrial Teachnology
- - Machine Learning and Artificial Intelligence Entusiast
+ - Machine Learning and Artificial Intelligence Enthusiast
  - Done with basics of Cloud Computing
 
 ## Languages and Tools :
