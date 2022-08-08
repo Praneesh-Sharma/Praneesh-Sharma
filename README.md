@@ -11,6 +11,9 @@
   <a href="https://discordapp.com/users/1742/">
     <img src="https://img.shields.io/badge/Discord-teal?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://www.kaggle.com/praneeshsharma">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
 </div>
 
 ## About Me :
