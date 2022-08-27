@@ -17,7 +17,7 @@
 </div>
 
 ## About Me :
- - Developer in my second year of B.Tech at Kalinga Institute of Industrial Teachnology
+ - Sophomore at Kalinga Institute of Industrial Teachnology
  - Machine Learning and Artificial Intelligence Enthusiast
  - Done with basics of Cloud Computing
  - Data Analyst
