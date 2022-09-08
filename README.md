@@ -14,6 +14,9 @@
   <a href="https://www.kaggle.com/praneeshsharma">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  <a href="https://www.kaggle.com/praneeshsharma">
+    <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly BAdge"/>
+  </a>
 </div>
 
 ## About Me :
