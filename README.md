@@ -17,9 +17,6 @@
   <a href="https://www.kaggle.com/praneeshsharma">
     <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
   </a>
-  <a href="https://www.holopin.io/@praneesh_sharma">
-     <img src="https://img.shields.io/badge/holopin-green?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin Badge"/>
-  </a>
 </div>
 
 ## About Me :
@@ -54,5 +51,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praneesh-Sharma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Sharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@praneesh_sharma's Holopin board](https://holopin.io/api/user/board?user=praneesh_sharma)](https://holopin.io/@praneesh_sharma)
 
 [![](https://visitcount.itsvg.in/api?id=Praneesh-Shara&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
