@@ -15,7 +15,10 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://www.kaggle.com/praneeshsharma">
-    <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly BAdge"/>
+    <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
+  </a>
+  <a href="https://www.holopin.io/@praneesh_sharma">
+     <img src="https://img.shields.io/badge/holopin-green?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin Badge"/>
   </a>
 </div>
 
@@ -53,5 +56,3 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Praneesh-Shara&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-[![@praneesh_sharma's Holopin Board](https://holopin.io/api/user/board?user=praneesh_sharma)](https://www.holopin.io/@praneesh_sharma)
