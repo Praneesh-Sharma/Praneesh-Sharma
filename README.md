@@ -52,5 +52,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Sharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![@praneesh_sharma's Holopin board](https://holopin.io/api/user/board?user=praneesh_sharma)](https://holopin.io/@praneesh_sharma)
-.
+
 [![](https://visitcount.itsvg.in/api?id=Praneesh-Shara&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
