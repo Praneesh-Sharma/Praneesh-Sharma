@@ -24,6 +24,7 @@
  - Machine Learning and Artificial Intelligence Enthusiast
  - Done with basics of Cloud Computing
  - Data Analyst
+ - Currently working on my Web Developement Skills
 
 ## Languages and Tools :
 <div>
