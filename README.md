@@ -50,6 +50,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneesh-Sharma&theme=tokyonight&hide_border=true&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praneesh-Sharma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Sharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://visitcount.itsvg.in/api?id=Praneesh-Shara&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## Badges :
 
@@ -64,5 +65,3 @@
     <img src="https://img.shields.io/badge/Holopin-green?style=for-the-badge" alt="Holopin Badge"/>
   </a>
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=Praneesh-Shara&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
