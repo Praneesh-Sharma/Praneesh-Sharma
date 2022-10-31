@@ -56,7 +56,7 @@
 
 <div id="badges2" align="left">
   <a href="https://www.cloudskillsboost.google/public_profiles/aa6940ed-6878-4682-91f1-5a03f38fea25">
-    <img src="https://img.shields.io/badge/Google-white?style=for-the-badge&logo=google&logoColor=green" alt="Google Badge"/>
+    <img src="https://img.shields.io/badge/Cloud-white?style=for-the-badge&logo=google&logoColor=green" alt="Google Badge"/>
   </a>
   <a href="https://credly.com/users/praneesh-sharma">
     <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
