@@ -64,4 +64,7 @@
   <a href="https://holopin.io/@praneesh_sharma">
     <img src="https://img.shields.io/badge/Holopin-green?style=for-the-badge" alt="Holopin Badge"/>
   </a>
+  <a href="https://g.dev/praneesh-sharma?utm_source=developers.google.com&utm_medium=referral">
+    <img src="https://img.shields.io/badge/Developers-lightgreen?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+  </a>
 </div>
