@@ -67,7 +67,14 @@
   <a href="https://g.dev/praneesh-sharma?utm_source=developers.google.com&utm_medium=referral">
     <img src="https://img.shields.io/badge/Developers-lightgreen?style=for-the-badge&logo=google&logoColor=white" alt="Google Badges"/>
   </a>
+</div>
+
+## Competitive Programming :
+<div id="badges3" align="left">
   <a href="https://www.hackerrank.com/ruthl3ss_maniac">
     <img src="https://img.shields.io/badge/HackerRank-dakrgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Profile"/>
+  </a>
+  <a href="https://leetcode.com/Praneesh_Sharma/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
 </div>
