@@ -56,15 +56,18 @@
 
 <div id="badges2" align="left">
   <a href="https://www.cloudskillsboost.google/public_profiles/aa6940ed-6878-4682-91f1-5a03f38fea25">
-    <img src="https://img.shields.io/badge/Cloud-white?style=for-the-badge&logo=google&logoColor=green" alt="Google Badge"/>
+    <img src="https://img.shields.io/badge/Cloud-white?style=for-the-badge&logo=google&logoColor=green" alt="Google Cloud Badges"/>
   </a>
   <a href="https://credly.com/users/praneesh-sharma">
-    <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
+    <img src="https://img.shields.io/badge/Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
   </a>
   <a href="https://holopin.io/@praneesh_sharma">
-    <img src="https://img.shields.io/badge/Holopin-green?style=for-the-badge" alt="Holopin Badge"/>
+    <img src="https://img.shields.io/badge/Holopin-green?style=for-the-badge" alt="Holopin Badges"/>
   </a>
   <a href="https://g.dev/praneesh-sharma?utm_source=developers.google.com&utm_medium=referral">
-    <img src="https://img.shields.io/badge/Developers-lightgreen?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+    <img src="https://img.shields.io/badge/Developers-lightgreen?style=for-the-badge&logo=google&logoColor=white" alt="Google Badges"/>
+  </a>
+  <a href="https://www.hackerrank.com/ruthl3ss_maniac">
+    <img src="https://img.shields.io/badge/HackerRank-dakrgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Profile"/>
   </a>
 </div>
