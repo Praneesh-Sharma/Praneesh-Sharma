@@ -77,4 +77,7 @@
   <a href="https://leetcode.com/Praneesh_Sharma/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
+  <a href="https://www.codechef.com/users/praneeshsharma">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+  </a>
 </div>
