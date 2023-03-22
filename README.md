@@ -67,6 +67,9 @@
   <a href="https://g.dev/praneesh-sharma?utm_source=developers.google.com&utm_medium=referral">
     <img src="https://img.shields.io/badge/Developers-lightgreen?style=for-the-badge&logo=google&logoColor=white" alt="Google Badges"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/users/praneeshsharma-3807/achievements">
+    <img src="https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badges"/>
+  </a>
 </div>
 
 ## Competitive Programming :
