@@ -84,5 +84,3 @@
     <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
   </a>
 </div>
-
-[![prawns's GitHub | Languages Over Time](https://stats.quine.sh/prawns/languages-over-time?theme=light)](https://quine.sh)
