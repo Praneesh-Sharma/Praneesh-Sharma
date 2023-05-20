@@ -70,6 +70,9 @@
   <a href="https://learn.microsoft.com/en-us/users/praneeshsharma-3807/achievements">
     <img src="https://img.shields.io/badge/Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badges"/>
   </a>
+  <a href="https://trailblazer.me/id/psharma1699">
+    <img src="https://img.shields.io/badge/SalesForce-lightblue?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforcce Badges"/>
+  </a>
 </div>
 
 ## Competitive Programming :
