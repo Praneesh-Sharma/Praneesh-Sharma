@@ -17,11 +17,10 @@
 </div>
 
 ## About Me :
- - Sophomore at Kalinga Institute of Industrial Technology
+ - Junior at Kalinga Institute of Industrial Technology
  - Machine Learning and Artificial Intelligence Enthusiast
- - Done with basics of Cloud Computing
  - Data Analyst
- - Currently working on my Web Developement Skills
+ - Currently working on my Deep Learning Algorithms
 
 ## Languages and Tools :
 <div>
