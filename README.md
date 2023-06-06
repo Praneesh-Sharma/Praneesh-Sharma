@@ -20,7 +20,7 @@
  - Junior at Kalinga Institute of Industrial Technology
  - Machine Learning and Artificial Intelligence Enthusiast
  - Data Analyst
- - Currently working on my Deep Learning Algorithms
+ - Currently working on Deep Learning Algorithms
 
 ## Languages and Tools :
 <div>
