@@ -74,9 +74,9 @@
   </a>
 </div>
 
-## Competitive Programming :
+<!--## Competitive Programming :
 <div id="badges3" align="left">
-  <a href="https://www.hackerrank.com/ruthl3ss_maniac">
+   <a href="https://www.hackerrank.com/ruthl3ss_maniac">
     <img src="https://img.shields.io/badge/HackerRank-dakrgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Profile"/>
   </a>
   <a href="https://leetcode.com/Praneesh_Sharma/">
@@ -86,3 +86,4 @@
     <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
   </a>
 </div>
+ -->
