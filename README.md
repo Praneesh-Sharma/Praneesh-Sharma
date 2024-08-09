@@ -17,7 +17,7 @@
 </div>
 
 ## About Me :
- - Junior at Kalinga Institute of Industrial Technology
+ - Senior at Kalinga Institute of Industrial Technology
  - Machine Learning and Artificial Intelligence Enthusiast
  - Data Analyst
  - Currently working on Deep Learning Algorithms
