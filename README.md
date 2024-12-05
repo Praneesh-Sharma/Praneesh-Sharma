@@ -17,7 +17,8 @@
 </div>
 
 ## About Me :
- - Senior at Kalinga Institute of Industrial Technology
+ - Exchange student at École Nationale Supérieure de l’Électronique et de ses Applications (ENSEA) 
+ - Senior at Kalinga Institute of Industrial Technology (KIIT)
  - Machine Learning and Artificial Intelligence Enthusiast
  - Data Analyst
  - Currently working on Deep Learning Algorithms
