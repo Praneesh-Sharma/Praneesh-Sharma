@@ -19,9 +19,9 @@
 ## About Me :
  - Exchange student at École Nationale Supérieure de l’Électronique et de ses Applications (ENSEA) 
  - Senior at Kalinga Institute of Industrial Technology (KIIT)
- - Machine Learning and Artificial Intelligence Enthusiast
+ - Machine Learning and Artificial Intelligence Engineer
  - Data Analyst
- - Currently working on Deep Learning Algorithms
+ - Currently exploring the FinTech space
 
 ## Languages and Tools :
 <div>
