@@ -50,7 +50,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneesh-Sharma&theme=tokyonight&hide_border=true&show_icons=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Praneesh-Sharma&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Sharma&layout=compact&theme=tokyonight&hide_border=true)
-![Visit Count](https://visitcount.itsvg.in/api?id=Praneesh-Shara&label=Profile%20Views&color=6&icon=5&pretty=false)
 
 ## Badges :
 
